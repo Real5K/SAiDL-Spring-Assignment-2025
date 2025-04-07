@@ -1,1 +1,1 @@
-## -> Main as well **BONUS** task performed of CoreML
+## 💡 Main as well **BONUS** task performed of CoreML
